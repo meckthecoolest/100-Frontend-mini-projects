@@ -20,3 +20,6 @@
 
 ![passenger counter](https://user-images.githubusercontent.com/45584722/194686913-ef562031-eb73-410c-a9c8-e3346128a62d.gif)
 
+# Project 5 : Hidden Search Bar
+
+![output](https://user-images.githubusercontent.com/45584722/194769064-b3b31afb-7baf-4671-b4d4-027d8c75df72.gif)
